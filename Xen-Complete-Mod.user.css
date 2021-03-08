@@ -1,4 +1,4 @@
-        /* ==UserStyle==
+/* ==UserStyle==
 @name           OcUK-Theme-Xen-Complete-Mod
 @namespace      https://github.com/el-profesor926/OcUK-Theme-Xen-Complete-Mod
 @version        1.0.2
@@ -9,6 +9,7 @@
 @supportURL https://github.com/el-profesor926/OcUK-Theme-Xen-Complete-Mod/issues
 @updateURL https://github.com/el-profesor926/OcUK-Theme-Xen-Complete-Mod/raw/main/Xen-Complete-Mod.user.css
 ==/UserStyle== */
+
     @-moz-document url-prefix("https://www.overclockers.co.uk/forums/") {
         html {
             background-color: #2e3539 !important;
