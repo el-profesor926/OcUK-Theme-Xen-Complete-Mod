@@ -1310,9 +1310,6 @@
             background: #2e3539;
             border-radius: 10px !important;
         }
-        #QuickReply {
-            margin-right: 160px;
-        }
         .Popup .PopupControl.PopupOpen,
         .Popup.PopupContainerControl.PopupOpen {
             color: #e971ff;
