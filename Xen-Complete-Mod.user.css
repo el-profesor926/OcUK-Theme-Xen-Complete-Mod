@@ -29,6 +29,7 @@
             border-style: solid;
             border-color: #282e31;
             max-width: 1400px;
+            border: none !important;
         }
         #headerMover,
         footer {
