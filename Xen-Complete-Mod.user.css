@@ -1354,4 +1354,7 @@
         .PageNav .pageNavHeader {
             padding: 3px 0;
         }
+        body .itemPageNav a {
+            border: none !important;
+        }
 }
