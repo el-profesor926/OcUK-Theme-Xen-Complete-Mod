@@ -1357,4 +1357,7 @@
         body .itemPageNav a {
             border: none !important;
         }
+        .showOnlyOP {
+            margin-top: 5px !important;
+        }
 }
